@@ -8,7 +8,7 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid>
-
-    </Grid>
+    <StackPanel>
+        <Button Click="Button_Click" Height="100" Width="100">Display Off</Button>
+    </StackPanel>
 </Page>
